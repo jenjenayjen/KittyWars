@@ -22,3 +22,8 @@ BUGS
 - text display do not go away
 - do not show what happens during turns
 - do not tell you when you lose/win
+
+![KW1](https://github.com/jenjenayjen/KittyWars/blob/main/photos/KW1.png)
+![KW2](https://github.com/jenjenayjen/KittyWars/blob/main/photos/KW2.png)
+![KW3](https://github.com/jenjenayjen/KittyWars/blob/main/photos/KW3.png)
+![KW4](https://github.com/jenjenayjen/KittyWars/blob/main/photos/KW4.png)
